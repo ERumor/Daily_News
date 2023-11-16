@@ -14,7 +14,7 @@ News app for Android. The news app displays the latest news articles about event
 - Application splash screen with logo.
 
 **Stack:**
-- Visual Studio Code, Flutter/Dart, bloc. 
+- Visual Studio Code, Flutter/Dart, Bloc State Management Library, News API. 
 
 **Packages:** 
 - flutter_bloc, build_runner, equatable, get_it, intl, floor, floor_generator, retrofit, retrofit_generator, flutter_hooks, cached_network_image, dio, sqflite, ionicons, flutter_native_splash. 
